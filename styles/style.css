@@ -1,0 +1,20 @@
+body{
+    
+        background-color: #D3DCEF;
+        font-size: 13px;
+        
+}
+main {
+    background-color: #D3DCEF;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 50vh;
+    width: 55%;
+    margin: auto;
+    margin-top: 5%;
+    border: solid 1px black;
+    
+
+}
+
